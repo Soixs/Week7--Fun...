@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\ref\UserNameData.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\bin\Debug\net5.0\UserNameData.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\ref\UserNameData.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.genruntimeconfig.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\Functions\UserNameData\obj\Debug\net5.0\UserNameData.csproj.AssemblyReference.cache
